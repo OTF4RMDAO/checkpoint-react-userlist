@@ -1,3 +1,16 @@
+# Checkpoint React UserList
+
+This is a React project that fetches and displays a list of users from an API.
+
+## Features
+- Fetches user data from [JSONPlaceholder API](https://jsonplaceholder.typicode.com/users).
+- Displays user names in a styled list.
+
+## How to Run
+1. Clone the repository.
+2. Run `npm install` to install dependencies.
+3. Run `npm start` to start the app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
